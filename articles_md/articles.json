@@ -3,21 +3,11 @@
   "doi": "10.26599/JICV.2026.9210096",
   "title": "Control design for intelligent and connected vehicle swarm systems: Generalized Udwadia–Kalaba approach",
   "authors": [
-   {
-    "name": "Xiaomin Zhao"
-   },
-   {
-    "name": "Bingwen Wang"
-   },
-   {
-    "name": "Xinhua Gao"
-   },
-   {
-    "name": "Weilong Hu"
-   },
-   {
-    "name": "Ye-Hwa Chen"
-   }
+   "Xiaomin Zhao",
+   "Bingwen Wang",
+   "Xinhua Gao",
+   "Weilong Hu",
+   "Ye-Hwa Chen"
   ],
   "keywords": [
    "intelligent and connected vehicles (ICVs)",
@@ -49,15 +39,9 @@
   "doi": "10.26599/JICV.2026.9210095",
   "title": "Probing large language models for autonomous driving behavior",
   "authors": [
-   {
-    "name": "Zhipeng Bao"
-   },
-   {
-    "name": "Wenjie Zhao"
-   },
-   {
-    "name": "Qianwen Li"
-   }
+   "Zhipeng Bao",
+   "Wenjie Zhao",
+   "Qianwen Li"
   ],
   "keywords": [
    "artificial Intelligence (AI) ethics",
@@ -89,18 +73,10 @@
   "doi": "10.26599/JICV.2026.9210094",
   "title": "Prospects of automated driving in different road freight vocations: Why non-driving matters more than driving",
   "authors": [
-   {
-    "name": "Edgar Jungblut"
-   },
-   {
-    "name": "Miguel Jaller"
-   },
-   {
-    "name": "Thomas Grube"
-   },
-   {
-    "name": "Jochen Linssen"
-   }
+   "Edgar Jungblut",
+   "Miguel Jaller",
+   "Thomas Grube",
+   "Jochen Linssen"
   ],
   "keywords": [
    "road freight transport",
@@ -132,33 +108,15 @@
   "doi": "10.26599/JICV.2026.9210093",
   "title": "Transformer-based out-of-distribution (OOD) input detection for trustworthy self-parking",
   "authors": [
-   {
-    "name": "Hadi Ballout"
-   },
-   {
-    "name": "Riccardo Berta"
-   },
-   {
-    "name": "Luca Lazzaroni"
-   },
-   {
-    "name": "Alessandro Pighetti"
-   },
-   {
-    "name": "Matteo Fresta"
-   },
-   {
-    "name": "Ammar Saad"
-   },
-   {
-    "name": "Vahid Hashemi"
-   },
-   {
-    "name": "Akshay Dhonthi"
-   },
-   {
-    "name": "Francesco Bellotti"
-   }
+   "Hadi Ballout",
+   "Riccardo Berta",
+   "Luca Lazzaroni",
+   "Alessandro Pighetti",
+   "Matteo Fresta",
+   "Ammar Saad",
+   "Vahid Hashemi",
+   "Akshay Dhonthi",
+   "Francesco Bellotti"
   ],
   "keywords": [
    "automated driving",
@@ -193,24 +151,12 @@
   "doi": "10.26599/JICV.2026.9210092",
   "title": "Toward networked cognitive traffic monitoring: Language-driven multi-camera perspective",
   "authors": [
-   {
-    "name": "Senyun Kuang"
-   },
-   {
-    "name": "Minhui Zhang"
-   },
-   {
-    "name": "Xiaoyu Wen"
-   },
-   {
-    "name": "Haitao Wang"
-   },
-   {
-    "name": "Yang Liu"
-   },
-   {
-    "name": "Yintao Wei"
-   }
+   "Senyun Kuang",
+   "Minhui Zhang",
+   "Xiaoyu Wen",
+   "Haitao Wang",
+   "Yang Liu",
+   "Yintao Wei"
   ],
   "keywords": [],
   "abstract": "",
@@ -236,27 +182,13 @@
   "doi": "10.26599/JICV.2026.9210091",
   "title": "Vehicle-infrastructure cooperative general object detection through feature flow and differentiable pose-based spatial alignment",
   "authors": [
-   {
-    "name": "Yanding Yang"
-   },
-   {
-    "name": "Rujun Yan"
-   },
-   {
-    "name": "Jinyu Miao"
-   },
-   {
-    "name": "Zhiwei Zhao"
-   },
-   {
-    "name": "Kewei Wang"
-   },
-   {
-    "name": "Kun Jiang"
-   },
-   {
-    "name": "Diange Yang"
-   }
+   "Yanding Yang",
+   "Rujun Yan",
+   "Jinyu Miao",
+   "Zhiwei Zhao",
+   "Kewei Wang",
+   "Kun Jiang",
+   "Diange Yang"
   ],
   "keywords": [
    "vehicle-infrastructure cooperative",
@@ -288,21 +220,11 @@
   "doi": "10.26599/JICV.2026.9210090",
   "title": "Prior knowledge-assisted reinforcement learning for vehicle platoon control in cut-in scenarios",
   "authors": [
-   {
-    "name": "Junru Yang"
-   },
-   {
-    "name": "Sifa Zheng"
-   },
-   {
-    "name": "Chuan Sun"
-   },
-   {
-    "name": "Haoran Li"
-   },
-   {
-    "name": "Lin Xu"
-   }
+   "Junru Yang",
+   "Sifa Zheng",
+   "Chuan Sun",
+   "Haoran Li",
+   "Lin Xu"
   ],
   "keywords": [
    "vehicle platoon control",
@@ -334,27 +256,13 @@
   "doi": "10.26599/JICV.2026.9210089",
   "title": "Implementation and experimental validation of a multivehicle cooperation method at intersections",
   "authors": [
-   {
-    "name": "Chaoyi Chen"
-   },
-   {
-    "name": "Liang Chen"
-   },
-   {
-    "name": "Yuxin Ma"
-   },
-   {
-    "name": "Yuxuan Si"
-   },
-   {
-    "name": "Mengchi Cai"
-   },
-   {
-    "name": "Qing Xu"
-   },
-   {
-    "name": "Keqiang Li"
-   }
+   "Chaoyi Chen",
+   "Liang Chen",
+   "Yuxin Ma",
+   "Yuxuan Si",
+   "Mengchi Cai",
+   "Qing Xu",
+   "Keqiang Li"
   ],
   "keywords": [
    "connected and autonomous vehicles (CAVs)",
@@ -386,15 +294,9 @@
   "doi": "10.26599/JICV.2026.9210088",
   "title": "Event-triggered V2X communication and control co-design for intelligent electrified transportation systems",
   "authors": [
-   {
-    "name": "Ziming Wang"
-   },
-   {
-    "name": "Xiaohua Ge"
-   },
-   {
-    "name": "Qing-Long Han"
-   }
+   "Ziming Wang",
+   "Xiaohua Ge",
+   "Qing-Long Han"
   ],
   "keywords": [],
   "abstract": "",
@@ -420,18 +322,10 @@
   "doi": "10.26599/JICV.2026.9210087",
   "title": "Reusing CAV-supporting smart infrastructure for the low-altitude economy",
   "authors": [
-   {
-    "name": "Shulu Chen"
-   },
-   {
-    "name": "Yuhao Wang"
-   },
-   {
-    "name": "Kai Wang"
-   },
-   {
-    "name": "Xiaobo Qu"
-   }
+   "Shulu Chen",
+   "Yuhao Wang",
+   "Kai Wang",
+   "Xiaobo Qu"
   ],
   "keywords": [
    "smart infrastructure",
@@ -463,15 +357,9 @@
   "doi": "10.26599/JICV.2026.9210086",
   "title": "Dangerous driving behavior detection method for intelligent cockpits based on TransWindow multimodal fusion",
   "authors": [
-   {
-    "name": "Minghui Zhao"
-   },
-   {
-    "name": "Bingtao Ren"
-   },
-   {
-    "name": "Shichun Yang"
-   }
+   "Minghui Zhao",
+   "Bingtao Ren",
+   "Shichun Yang"
   ],
   "keywords": [
    "intelligent cockpit",
@@ -503,27 +391,13 @@
   "doi": "10.26599/JICV.2026.9210085",
   "title": "Learning to drive from naturalistic trajectories: Offline reinforcement learning for safe speed guidance at signalized intersections",
   "authors": [
-   {
-    "name": "Xiaoyu Shi"
-   },
-   {
-    "name": "Yuhuan Lu"
-   },
-   {
-    "name": "Zihao Sheng"
-   },
-   {
-    "name": "Jian Zhang"
-   },
-   {
-    "name": "Sikai Chen"
-   },
-   {
-    "name": "Heye Huang"
-   },
-   {
-    "name": "Tiantian Chen"
-   }
+   "Xiaoyu Shi",
+   "Yuhuan Lu",
+   "Zihao Sheng",
+   "Jian Zhang",
+   "Sikai Chen",
+   "Heye Huang",
+   "Tiantian Chen"
   ],
   "keywords": [
    "offline reinforcement learning (RL)",
